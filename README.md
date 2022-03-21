@@ -7,6 +7,7 @@
 - Reach me at [@Gmail](mailto:jobinleung@gmail.com).
 - [Profile](https://www.0xleung.com/) • [Blog](https://blog.0xleung.com/) • [Medium](https://medium.com/@0xleung) • [Juejin](https://juejin.cn/user/729731451585319/posts)
 
+<!-- TW -->
 <p align="center">
   <a href="https://twitter.com/0xleung" target="blank"><img src="https://img.shields.io/twitter/follow/0xleung?logo=twitter&style=for-the-badge" alt="0xleung" /></a>
 </p>
