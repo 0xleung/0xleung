@@ -1,6 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap" rel="stylesheet">
 ## Hi, this is <span style="font-family: 'Rubik Wet Paint';">0XLΞung</span>. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=0xleung)
 
 <!-- Introduction -->
@@ -18,3 +15,11 @@
 <!-- Github Stats -->
 
 ![Leung's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xleung&show_icons=true)
+
+<svg>
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+    </style>
+  </defs>
+</svg>
