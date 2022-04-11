@@ -16,10 +16,3 @@
 
 ![Leung's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xleung&show_icons=true)
 
-<svg>
-  <defs>
-    <style type="text/css">
-      @import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
-    </style>
-  </defs>
-</svg>
