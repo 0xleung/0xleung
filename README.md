@@ -1,10 +1,7 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Rubik+Glitch&family=Rubik+Wet+Paint&display=swap');
-.logo {
-  font-family: 'Rubik Wet Paint';
-}
-</style>
-## Hi, this is <span class="logo">0XLΞung</span>. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=0xleung)
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap" rel="stylesheet">
+## Hi, this is <span style="font-family: 'Rubik Wet Paint';">0XLΞung</span>. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=0xleung)
 
 <!-- Introduction -->
 
