@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 
-- A full stack developer
+- A full stack developer, React/Go/Rust/Solidity developer.
 - Heart as the direction, Code as the ship, and the adventure sets sail!
 - Reach me at [@Gmail](mailto:jobinleung@gmail.com).
 - [Profile](https://www.0xleung.com/) • [Blog](https://blog.0xleung.com/) • [Medium](https://medium.com/@0xleung) • [Juejin](https://juejin.cn/user/729731451585319/posts)
@@ -15,4 +15,3 @@
 <!-- Github Stats -->
 
 ![Leung's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xleung&show_icons=true)
-
